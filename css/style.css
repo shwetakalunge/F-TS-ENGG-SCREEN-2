@@ -372,4 +372,8 @@ footer div {
     .section_logo {
         display: none
     }
+
+    .home {
+        display: none
+    }
 }
